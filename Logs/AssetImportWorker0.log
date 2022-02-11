@@ -1862,3 +1862,20 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 6502.491291 seconds.
+  path: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png
+  artifactKey: Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png using Guid(045b15ec09bba42448d89db77fa6f20a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '219c897d45680a2c55bb4df6d0d2fb5f') in 0.427807 seconds 
+  Import took 0.431712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.318887 seconds.
+  path: Assets/AIMovement.cs
+  artifactKey: Guid(2e288f94c1c0e3146bd7ba02140265ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AIMovement.cs using Guid(2e288f94c1c0e3146bd7ba02140265ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5188a49a2ea71acbddba1a1730daebf1') in 0.002108 seconds 
+  Import took 0.005531 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
